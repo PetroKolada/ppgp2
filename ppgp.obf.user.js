@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         ppgp
-// @namespace    https://github.com/ppgp
-// @version      2.2.5
-// @description  Clip Studio Paint–style panel interface for Gartic Phone
+// @namespace    https://github.com/PetroKolada/ppgp2
+// @version      2.2.6
+// @description  made with love
 // @author       ponyatno
 // @match        https://garticphone.com/*
 // @grant        none
